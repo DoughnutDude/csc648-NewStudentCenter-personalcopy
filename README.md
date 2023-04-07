@@ -1,4 +1,33 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=8347654&assignment_repo_type=AssignmentRepo)
+# DoughnutDude's personal copy of New Student Center SWE Project
+This project tested our skills as a software engineering team by having us develop and deploy a website over the course of 1 semester.
+
+Our team was split roughly in half between front-end and back-end teams.
+
+I played the role of database manager and back-end engineer.
+
+The work was split into 5 milestones over the course of the semester:
+- Use cases, functional/non-functional requirements, and competitive analysis.
+- Requirement prioritization, UX mockups/storyboarding, and vertical prototyping.
+- Back-end/database architecture diagramming, UI design, and front-end horizontal prototyping.
+- Usability and QA testing, back-end API implementation, and Beta prototyping.
+- Final project submission, fine-tuning.
+
+| [Milestone 1 Documentation](Milestones/M1/M1v2T05.pdf)|
+|:---:|
+
+| [Milestone 2 Documentation](Milestones/M2/M2V2T05.pdf)|
+|:---:|
+
+| [Milestone 3 Documentation](Milestones/M3/M3V2T05.pdf)|
+|:---:|
+
+| [Milestone 4 Documentation](Milestones/M4/M4V1T05.pdf)|
+|:---:|
+
+| [Milestone 5 Documentation](Milestones/M5/M5V1T05.pdf)|
+|:---:|
+
+Original Project Description/Details below:
 # CSC648-848 Repository
 
 ## Please do the following steps right after this repository is created.
