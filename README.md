@@ -1,5 +1,6 @@
 # DoughnutDude's personal copy of New Student Center SWE Project
 This project tested our skills as a software engineering team by having us develop and deploy a website over the course of 1 semester.
+We decided to create a redesigned student center for students to enroll in classes, access student records, and manage their school life.
 
 Our team was split roughly in half between front-end and back-end teams.
 
